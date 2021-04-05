@@ -40,7 +40,7 @@ body {
     flex-grow: 1
 }
 
-.task-wrapper {
+.task__wrapper {
     display: flex;
 }
 
